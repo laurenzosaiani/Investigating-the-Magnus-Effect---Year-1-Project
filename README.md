@@ -14,17 +14,33 @@ This repository contains a Python simulation that models the flight of a spinnin
 - Generates plots and animations for trajectory analysis.  
 
 ## Usage
-1. Install required Python packages:  
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/repo-name.git
+cd repo-name
+
+```
+2. Create virtual envirinment:
+```bash
+python -m venv venv
+source venv/bin/activate   # Linux/macOS
+venv\Scripts\activate      # Windows
+
+```
+
+4. Install required Python packages:  
 ```bash
 pip install numpy matplotlib scipy
 
 ```
-2. To test the model using your own inputs:
+
+4. To test the model using your own inputs:
 ```bash
 python Magnus_force_model.py
 
 ```
-3. To view our models prediction of our real lifes data and to see the comparison with the actual flight path of the ball:
+
+5. To view our models prediction of our real lifes data and to see the comparison with the actual flight path of the ball:
 ```bash
 python comparison_to_real_life_data.py
 
