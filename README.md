@@ -22,3 +22,10 @@ pip install numpy matplotlib scipy
 2. To test the model using your own inputs:
 ```bash
 python Magnus_force_model.py
+
+```
+3. To view our models prediction of our real lifes data and to see the comparison with the actual flight path of the ball:
+```bash
+python comparison_to_real_life_data.py
+
+```
