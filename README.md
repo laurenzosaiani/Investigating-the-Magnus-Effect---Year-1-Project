@@ -16,7 +16,7 @@ This repository contains a Python simulation that models the flight of a spinnin
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/repo-name.git
+git clone https://github.com/laurenzosaiani/Investigating-the-Magnus-Effect.git
 cd repo-name
 
 ```
