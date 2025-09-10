@@ -51,8 +51,8 @@ python comparison_to_real_life_data.py
 Here we compare the simulated trajectories with real-life experimental data collected using a DIY launcher:
 
 ### 2D Trajectory Comparison
-![Trajectory comparison](images/2D_topdown_plot.png)
-![Trajectory comparison](images/2D_sideview_plot.png)
+![Trajectory comparison](Images/2D_topdown_plot.png)
+![Trajectory comparison](Images/2D_sideview_plot.png)
 
 ### 3D Model vs Real Data
-![3D plot](images/3D_plot.png)
+![3D plot](Images/3D_plot.png)
